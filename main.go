@@ -29,7 +29,7 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		if err := mergo.Map(&v, x); err != nil {
+		if err := mergo.Map(&v, x, mergo.WithAppendSlice); err != nil {
 			log.Fatal(err)
 		}
 	}
