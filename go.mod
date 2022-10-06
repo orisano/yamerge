@@ -7,6 +7,7 @@ require (
 	github.com/goccy/go-yaml v1.9.5
 	github.com/imdario/mergo v0.3.13
 	github.com/mattn/go-colorable v0.1.13 // indirect
-	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
+	golang.org/x/sys v0.0.0-20220928140112-f11e5e49a4ec // indirect
+	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
