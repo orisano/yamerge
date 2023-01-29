@@ -3,7 +3,7 @@ module github.com/orisano/yamerge
 go 1.13
 
 require (
-	github.com/fatih/color v1.14.0 // indirect
+	github.com/fatih/color v1.14.1 // indirect
 	github.com/goccy/go-yaml v1.9.8
 	github.com/imdario/mergo v0.3.13
 	golang.org/x/sys v0.4.0 // indirect
