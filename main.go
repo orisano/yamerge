@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/goccy/go-yaml"
-	"github.com/imdario/mergo"
+	"dario.cat/mergo"
 )
 
 func main() {
